@@ -6,12 +6,12 @@ body {
 section {
     display: grid;
     height: 100vh;
-    background: peachpuff;
+    background: red;
 }
 
 h1 {
     margin: auto;
     font: 3rem Robot, arial;
-    color: black;
+    color: white;
     text-shadow: 3px 3px 5px rgba(63, 63, 191, 1);
 }
