@@ -6,7 +6,7 @@ body {
 section {
     display: grid;
     height: 100vh;
-    background: red;
+    background: white;
 }
 
 h1 {
